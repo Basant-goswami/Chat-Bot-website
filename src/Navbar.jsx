@@ -18,6 +18,7 @@ export default function Navbar() {
             <li className=" font-mono font-bold">
               <a
                 href="https://www.linkedin.com/in/basant-kumar-bharati"
+                target="_blank"
                 className="name"
               >
                 Basant kumar
