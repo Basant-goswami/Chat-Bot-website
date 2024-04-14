@@ -16,7 +16,10 @@ export default function Navbar() {
         <div className=" text-end px-[20px]">
           <ul>
             <li className=" font-mono font-bold">
-              <a href="#" className="name">
+              <a
+                href="https://www.linkedin.com/in/basant-kumar-bharati"
+                className="name"
+              >
                 Basant kumar
               </a>
             </li>
