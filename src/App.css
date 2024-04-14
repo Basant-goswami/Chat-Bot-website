@@ -1,0 +1,12 @@
+.chatbot h1 {
+  text-shadow: 1px -3px 3px white;
+}
+
+.text-end .name:hover {
+  text-decoration: underline white;
+  transform: scale(1.1);
+}
+.text-end .name {
+  display: inline-block;
+  transition: all 0.3s;
+}
